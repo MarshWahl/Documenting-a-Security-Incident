@@ -13,6 +13,7 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 ## Incident Handler's Journal
 
 | Date: July 23, 2024 | Entry: 1 |
+| --- | --- |
 | Description | Documenting a cybersecurity incident |
 | Tool(s) used | None |
 | The 5 W's | ●	Who: An organized group of unethical hackers
